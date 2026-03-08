@@ -13,3 +13,5 @@ This project simulates a random walk using Python and visualizes it using Matplo
 
 ## Author
 Akanksha Reddy
+## output
+![Random walk Output](output.png)
